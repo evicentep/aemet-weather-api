@@ -36,4 +36,4 @@ The original forecast and historical transformation functions remain substantial
 
 ## Licensing
 
-No open-source licence has been selected. Academic authorship is retained; this repository does not imply a licence grant for institutional assignment material or third-party data. Original assignment text is not included.
+The code and original documentation are released under the MIT License at the author's request. Academic authorship is retained. The licence does not cover institutional assignment material, AEMET data or third-party dependencies. Original assignment text is not included.
