@@ -140,3 +140,7 @@ Next steps: validate against live source schemas, align observations by calendar
 **Enrique Vicente Pujante** · [LinkedIn](https://www.linkedin.com/in/enrique-vicente-pujante/) · [GitHub](https://github.com/evicentep)
 
 Developed for **Fundamentos de Redes de Datos**, Grado en Ciencia e Ingeniería de Datos, Universidad de Murcia. The submitted source and reports identify Enrique Vicente Pujante as author. The publication changes are recorded separately below.
+
+## License
+
+Code and original documentation are available under the [MIT License](LICENSE). AEMET data and third-party dependencies retain their own terms.
